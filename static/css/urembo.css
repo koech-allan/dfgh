@@ -1,0 +1,168 @@
+h1{
+    color: #15ff0a;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.btn_one{
+    width: 150px;
+    height: 70px;
+    color: #edfffa;
+    background-color: black;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn_two{
+    width: 150px;
+    height: 70px;
+    color: #edfffa;
+    background-color: #15ff0a;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn_three{
+    width: 150px;
+    height: 70px;
+    color: #edfffa;
+    background-color: #650303;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn_four{
+    width: 150px;
+    height: 70px;
+    color: #edfffa;
+    background-color: #132491;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn_five{
+    width: 150px;
+    height: 70px;
+    color: #edfffa;
+    background-color: #3d7960;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #f2ff2d;
+    color: #ff2e31;
+}
+.h_one{
+    color: #0affeb;
+    text-decoration: underline;
+}
+.h_two{
+    color: #ff24e1;
+    text-decoration: underline;
+}
+.p_one{
+    color: #3d7960;
+    font-style: italic;
+}
+.p_two{
+    color: #831706;
+    font-style: italic;
+}
+.p_three{
+    color: #755008;
+    font-style: italic;
+}
+.p_four{
+    color: #0f285d;
+    font-style: italic;
+}
+body{
+    background-color: rgba(130, 125, 131, 0.56);
+}
+hr{
+  height: 1px;
+    background-color: black;
+    border: unset;
+}
+.picha{
+    width: 24.8%;
+    height: 250px;
+    border-radius: 10px;
+}
+video{
+    width: 33%;
+    height: 250px;
+
+}
+audio{
+    width: 33%;
+
+}
+.register{
+    color: #755008;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.registration_form{
+    width: 30%;
+    margin: auto;
+}
+.input,.input_login{
+    width: 100%;
+    height: 50px;
+    color: #ad4141;
+    border-radius: 10px;
+    padding-left: 16px;
+    font-weight: bold;
+    border: unset;
+    //background-color: rgb(3, 3, 3);
+}
+.btn_submit{
+    background-color: #15ff0a;
+    color: #030303;
+    font-size: 30px;
+    height: 75px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    border: unset;
+    cursor: pointer;
+
+}
+.one{
+    font-size: 20px;
+
+}
+.input_login{
+    width: 80%;
+    height: 60px;
+}
+.password_reset{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.btn_reset{
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: #0affeb;
+    color: black;
+    height: 60px;
+    border-radius: 8px;
+    border: unset;
+}
